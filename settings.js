@@ -10,22 +10,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349065036087","2348020532388"
-global.ownername = "𝐓𝐞𝐦𝐢𝐥𝐢𝐨𝐥𝐮𝐰𝐚 ☣️"
+global.ownernomer = "2348107582855"
+global.ownername = "メ メ"
 global.ytname = "No YTChannel"
-global.socialm = "GitHub: bumbum001"
-global.location = "nigeria, lagos, ikorodu, ABUJA"
+global.socialm = "GitHub: Feranmi245"
+global.location = "nigeria, lagos, ABUJA"
 
-global.ownernumber = '2348020532388'  //creator number
-global.ownername = '꧁﴿☬✞ 𝐓𝐞𝐦𝐢 ✞☬﴾꧂™' //owner name
-global.botname = '꧁﴿·⁎̩͙ ⁑̩͙̩͙ ⁂̩̩͙»✥«·-𝐓𝐞𝐦𝐢 𝐁𝐮𝐠 𝐁𝐨𝐭-·»✥«⁂̩̩͙͙ ⁑̩͙̩͙ ⁎̩͙.·﴾꧂' //name of the bot
+global.ownernumber = '2348107582855'  //creator number
+global.ownername = 'メ メ' //owner name
+global.botname = 'メ メ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '𝐓𝐞𝐦𝐢𝐥𝐢𝐨𝐥𝐮𝐰𝐚'
+global.author = 'メ メ'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '✝️'
 global.wm = "𝐓𝐞𝐦𝐢𝐥𝐢𝐨𝐥𝐮𝐰𝐚"
 
 //theme link
@@ -36,7 +36,7 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
+global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
