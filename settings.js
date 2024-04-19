@@ -11,28 +11,28 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "2348107582855"
-global.ownername = "メ メ"
+global.ownername = "メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️"
 global.ytname = "No YTChannel"
 global.socialm = "GitHub: Feranmi245"
 global.location = "nigeria, lagos, ABUJA"
 
 global.ownernumber = '2348107582855'  //creator number
-global.ownername = 'メ メ' //owner name
+global.ownername = '𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️' //owner name
 global.botname = 'メ メ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'メ メ'
+global.author = 'メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️'
 
 //console view/theme
 global.themeemoji = '✝️'
-global.wm = "𝐓𝐞𝐦𝐢𝐥𝐢𝐨𝐥𝐮𝐰𝐚"
+global.wm = "𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘"
 
 //theme link
-global.link = '.'
+global.link = 'https://chat.whatsapp.com/GhtWPGPsPnbDZAnpKK3jJk'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
