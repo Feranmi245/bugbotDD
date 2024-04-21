@@ -10,26 +10,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348107582855"
-global.ownername = "メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️"
+global.ownernomer = "2347082102521"
+global.ownername = "╬━═════𝐌𝐑 𝐈𝐍𝐂𝐑𝐄𝐃𝐈𝐁𝐋𝐄═══"
 global.ytname = "No YTChannel"
 global.socialm = "GitHub: Feranmi245"
 global.location = "nigeria, lagos, ABUJA"
 
-global.ownernumber = '2348107582855'  //creator number
-global.ownername = '𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️' //owner name
-global.botname = 'メ メ' //name of the bot
+global.ownernumber = '2347082102521'  //creator number
+global.ownername = '╬━═════𝐌𝐑 𝐈𝐍𝐂𝐑𝐄𝐃𝐈𝐁𝐋𝐄═══' //owner name
+global.botname = '╬━═════𝐈𝐍𝐂𝐑𝐄𝐃𝐈𝐁𝐋𝐄 𝐌𝐃═══' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'メ メ 𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘✝️'
+global.author = '╬━═════𝐌𝐑 𝐈𝐍𝐂𝐑𝐄𝐃𝐈𝐁𝐋𝐄═══'
 
 //console view/theme
 global.themeemoji = '✝️'
-global.wm = "𝗛𝗘𝗥𝗠𝗜𝗢𝗡𝗘"
+global.wm = "╬━═════𝐌𝐑 𝐈𝐍𝐂𝐑𝐄𝐃𝐈𝐁𝐋𝐄═══"
 
 //theme link
-global.link = 'https://chat.whatsapp.com/GhtWPGPsPnbDZAnpKK3jJk'
+global.link = ''
 
 //custom prefix
 global.prefa = ['.']
