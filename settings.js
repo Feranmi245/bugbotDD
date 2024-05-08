@@ -10,26 +10,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347082102521"
-global.ownername = "╬━═════𝐌𝐑 𝐈𝐍𝐂𝐑𝐄𝐃𝐈𝐁𝐋𝐄═══"
+global.ownernomer = "233502273810"
+global.ownername = "【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊"
 global.ytname = "No YTChannel"
 global.socialm = "GitHub: Feranmi245"
 global.location = "nigeria, lagos, ABUJA"
 
-global.ownernumber = '2347082102521'  //creator number
-global.ownername = '╬━═════𝐌𝐑 𝐈𝐍𝐂𝐑𝐄𝐃𝐈𝐁𝐋𝐄═══' //owner name
-global.botname = '╬━═════𝐈𝐍𝐂𝐑𝐄𝐃𝐈𝐁𝐋𝐄 𝐌𝐃═══' //name of the bot
+global.ownernumber = '233502273810'  //creator number
+global.ownername = '【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊😶‍🌫️' //owner name
+global.botname = '【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊😶‍🌫️' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = '╬━═════𝐌𝐑 𝐈𝐍𝐂𝐑𝐄𝐃𝐈𝐁𝐋𝐄═══'
+global.packname = '【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊'
+global.author = '😶‍🌫️'
 
 //console view/theme
-global.themeemoji = '✝️'
-global.wm = "╬━═════𝐌𝐑 𝐈𝐍𝐂𝐑𝐄𝐃𝐈𝐁𝐋𝐄═══"
+global.themeemoji = '✝😶‍🌫️'
+global.wm = "【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊😶‍🌫️"
 
 //theme link
-global.link = ''
+global.link = 'https://chat.whatsapp.com/CHOR0WkQk8N6ZrhqQwnLqm'
 
 //custom prefix
 global.prefa = ['.']
@@ -40,15 +40,15 @@ global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.anti92 = true //auto block +92 
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v2'
 
 //reply messages
 global.mess = {
