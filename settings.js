@@ -10,13 +10,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "233502273810"
+global.ownernomer = "2349115162626"
 global.ownername = "【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊"
 global.ytname = "No YTChannel"
 global.socialm = "GitHub: Feranmi245"
 global.location = "nigeria, lagos, ABUJA"
 
-global.ownernumber = '233502273810'  //creator number
+global.ownernumber = '2349115162626'  //creator number
 global.ownername = '【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊😶‍🌫️' //owner name
 global.botname = '【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊😶‍🌫️' //name of the bot
 
@@ -32,7 +32,7 @@ global.wm = "【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊😶‍�
 global.link = 'https://chat.whatsapp.com/CHOR0WkQk8N6ZrhqQwnLqm'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = [' ']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
