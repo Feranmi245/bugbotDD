@@ -10,26 +10,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349115162626"
-global.ownername = "【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊"
+global.ownernomer = "2349074658198"
+global.ownername = "Sãvāgë"
 global.ytname = "No YTChannel"
 global.socialm = "GitHub: Feranmi245"
 global.location = "nigeria, lagos, ABUJA"
 
-global.ownernumber = '2349115162626'  //creator number
-global.ownername = '【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊😶‍🌫️' //owner name
-global.botname = '【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊😶‍🌫️' //name of the bot
+global.ownernumber = '2349074658198'  //creator number
+global.ownername = 'Sãvāgë' //owner name
+global.botname = 'Sãvāgë😶‍🌫️' //name of the bot
 
 //sticker details
-global.packname = '【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊'
+global.packname = 'Sãvāgë'
 global.author = '😶‍🌫️'
 
 //console view/theme
 global.themeemoji = '✝😶‍🌫️'
-global.wm = "【¹𝟗】𝐇𝐑𝐖 𝐇𝐚𝐫𝐥𝐞𝐲🔥🦊😶‍🌫️"
+global.wm = "Sãvāgë"
 
 //theme link
-global.link = 'https://chat.whatsapp.com/CHOR0WkQk8N6ZrhqQwnLqm'
+global.link = 'https://chat.whatsapp.com/BmR7ddjPv7Y2zMyCxn4HFH'
 
 //custom prefix
 global.prefa = [' ']
